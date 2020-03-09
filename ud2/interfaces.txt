@@ -1,0 +1,6 @@
+Countable
+OuterIterator
+RecursiveIterator
+SeekableIterator
+SplObserver
+SplSubject

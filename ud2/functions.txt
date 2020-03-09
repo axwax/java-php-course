@@ -1,0 +1,15 @@
+Class_implements
+Class_parents
+Class_uses
+Iterator_apply
+Iterator_count
+Iterator_to_array
+Spl_autoload_call
+Spl_autoload_extensions
+Spl_autoload_functions
+Spl_autoload_register
+Spl_autoload_unregister
+Spl_autoload
+spl_classes
+spl_object_hash
+spl_object_id

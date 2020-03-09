@@ -1,0 +1,9 @@
+LimitIterator
+NoRewindIterator
+MultipleIterator
+RecursiveIteratorIterator
+RecursiveTreeIterator
+DirectoryIterator
+FilesystemIterator
+GlobIterator
+RecursiveDirectoryIterator

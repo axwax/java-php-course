@@ -1,0 +1,4 @@
+SplFileInfo
+SplFileObject
+SplTempFileObject
+ArrayObject
